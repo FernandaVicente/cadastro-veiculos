@@ -1,4 +1,4 @@
-# 🚗 Cadastro de Veículos
+#  Cadastro de Veículos
 
 Projeto desenvolvido como atividade prática da disciplina de Linguagens de Programação, com o objetivo de criar um sistema de cadastro e consulta de veículos utilizando integração entre front-end, back-end e banco de dados.
 
